@@ -4,3 +4,6 @@ The unique thing here is that it requires you a password: you have to input the 
 Also, it also disables right-click for 5 minutes.
 This app is a focus timer that uses a fullscreen session mode to reduce distractions. It does not modify system settings or affect other applications.
 Have fun studying:)
+
+*UPDATE*
+Sound time have been added, along with display improvement.
